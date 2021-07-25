@@ -12,7 +12,7 @@ psycho = Client(
 DOWNLOAD_LOCATION = os.environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/")
 
 START_TEXT = """
-H!✨
+H![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)
 I am Telegraph Media Converter🧳 Create by Psychobots 
 I can create Pictures under 5MB
 
@@ -88,7 +88,7 @@ async def start(bot, update):
     reply_markup = START_BUTTONS
     await update.reply_text(
         text=text,
-        disable_web_page_preview=True,
+        disable_web_page_preview=False,
         quote=True,
         reply_markup=reply_markup
     )
