@@ -141,3 +141,5 @@ async def getmedia(bot, update):
     )
 
 psycho.run()
+
+# © Psycho_Bots #
