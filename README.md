@@ -1,5 +1,5 @@
 # Telegraph-Uploader 
-[![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)height="400px" width="400px" border="1px" alt="alphax">](https://t.me/Psycho_Bots)
+[![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)](https://t.me/Psycho_Bots)
 # <p> THIS IS TELEGRAPH LINKS UPLOADER <br> FOR TELEGRAM </p>
 # BOT AT TELEGRAM 
 
