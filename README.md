@@ -23,13 +23,13 @@ class Var(object):
 ### This bot is created to get telegra.ph links of images...
 
 # Sᴜᴘᴘᴏʀᴛ 
-
+<hr>
 <a href="https://telegram.me/Psycho_Bots" target="_blank"><img src="https://img.shields.io/badge/Updates-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
 <a href="https://telegram.me/PsychoBots_Chat" target="_blank"><img src="https://img.shields.io/badge/Support-Group-green.svg?style=for-the-badge&logo=Telegram"></a>
-
+<hr>
 
 
 ## ~ [@Psycho_Bots](https://t.me/PsychoBots)❤️
-<hr>
+
 ## ~[@Tubots](https://t.me/tubots) ❤️
