@@ -33,3 +33,5 @@ class Var(object):
 ## ~ [@Psycho_Bots](https://t.me/PsychoBots)❤️
 
 ## ~[@Tubots](https://t.me/tubots) ❤️
+
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PsychoBots/Telegraph-Uploader)
