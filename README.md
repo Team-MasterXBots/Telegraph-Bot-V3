@@ -31,4 +31,5 @@ class Var(object):
 
 
 ## ~ [@Psycho_Bots](https://t.me/PsychoBots)❤️
-### ~[@Tubots](https://t.me/tubots) ❤️
+<hr>
+## ~[@Tubots](https://t.me/tubots) ❤️
