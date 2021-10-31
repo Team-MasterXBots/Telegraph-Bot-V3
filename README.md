@@ -24,13 +24,13 @@ class Var(object):
 
 # Sᴜᴘᴘᴏʀᴛ 
 <hr>
-<a href="https://telegram.me/Psycho_Bots" target="_blank"><img src="https://img.shields.io/badge/Updates-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Master_X_Updates" target="_blank"><img src="https://img.shields.io/badge/Updates-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://telegram.me/PsychoBots_Chat" target="_blank"><img src="https://img.shields.io/badge/Support-Group-green.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Best_Friends15" target="_blank"><img src="https://img.shields.io/badge/Support-Group-green.svg?style=for-the-badge&logo=Telegram"></a>
 <hr>
 
 
 ## ~ [Updates Channel](https://t.me/Master_X_Updates)💖
 
-## ~[Support Group](https://t.meBest _Friends15) 💖
+## ~[Support Group](https://t.me/Best_Friends15) 💖
 
