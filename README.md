@@ -1,5 +1,5 @@
-# Telegraph-Uploader 
-[![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)](https://t.me/Psycho_Bots)
+# Telegraph Uploader Bot v3
+[![✨](https://telegra.ph/file/1434d9d0eb6a8bf00456a.jpg)](https://t.me/Master_X_Updates)
 # <p> THIS IS TELEGRAPH LINKS UPLOADER <br> FOR TELEGRAM </p>
 # BOT AT TELEGRAM 
 
@@ -30,7 +30,7 @@ class Var(object):
 <hr>
 
 
-## ~ [@Psycho_Bots](https://t.me/PsychoBots)❤️
+## ~ [Updates Channel](https://t.me/Master_X_Updates)💖
 
-## ~[@Tubots](https://t.me/tubots) ❤️
+## ~[Support Group](https://t.meBest _Friends15) 💖
 
