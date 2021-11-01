@@ -5,7 +5,7 @@
 
 
 
-<a href="http://t.me/tele_GraphRoBot" target="_blank"><img src="https://img.shields.io/badge/BOT-IN%20TELEGRAM-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/ShadowZTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/BOT-IN%20TELEGRAM-black.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## How To Host
 
