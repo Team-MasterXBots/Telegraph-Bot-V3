@@ -42,5 +42,5 @@ class Var(object):
 
 ## ~ [Updates Channel](https://t.me/Master_X_Updates)💖
 
-## ~[Support Group](https://t.me/Best_Friends15) 💖
+## ~[Support Group](https://t.me/Best_Friends15) 💖 
 
