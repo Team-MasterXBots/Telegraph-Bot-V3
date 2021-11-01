@@ -1,0 +1,49 @@
+{
+
+    "name": "Telegraph-Bot-v3",
+
+    "description": "Hello, I am Lycia An Intelligent Telegraph Bot. If You Are Feeling Lonely, You can Always Come to me and Telegraph Make With Me!",
+
+    "logo": "https://telegra.ph/file/a54ed27b0dc3fc3e439fd.jpg",
+
+    "repository": "https://github.com/Team-ShadowZ/Telegraph-Bot-v3",
+
+    "env": {
+
+        "TOKEN": {
+
+            "description": "Get From @BotFather. Create Your Bot And Get Token. That Token Copy And Paste Here ",
+
+            "required": true
+
+        },
+
+        "API_ID": {
+
+            "description": "Get From my.telegram.org",
+
+            "required": true
+
+        },
+
+        "API_HASH": {
+
+            "description": "Get From my.telegram.org",
+
+            "required": true
+
+        }
+
+    },
+
+    "addons": [
+
+        {
+
+            "plan": "heroku-postgresql"
+
+        }
+
+    ]
+
+}
