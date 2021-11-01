@@ -1,1 +1,1 @@
-worker: python3 -m telegraph.py 
+worker: python3 -m bot.py 
