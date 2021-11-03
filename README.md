@@ -19,16 +19,7 @@ The easiest way to deploy this Bot
 
  
  
-## You Can Create Config.py 
-```python3
-import os 
 
-class Var(object): 
-   API_ID [+]
-   API_HASH[+]
-   BOT_TOKEN[+]
-
-```
 
 ### This bot is created to get telegra.ph links of images...
 
