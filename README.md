@@ -5,7 +5,7 @@
 
 
 
-<a href="http://t.me/ShadowZTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/BOT-IN%20TELEGRAM-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/TheTechTelegraphBot" target="_blank"><img src="https://img.shields.io/badge/BOT-IN%20TELEGRAM-black.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## How To Host
 
@@ -15,11 +15,9 @@ The easiest way to deploy this Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-MasterXBots/Telegraph-Bot-V3"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
- 
+## Deploy To Railway
 
- 
- 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTeam-MasterXBots%2FTelegraph-Bot-V3&envs=API_ID%2CAPI_HASH%2CTOKEN&optionalEnvs=API_ID%2CAPI_HASH%2CTOKEN&API_IDDesc=Get+From+my.telegram.org&API_HASHDesc=Get+From+my.telegram.org&TOKENDesc=Get+From+%40BotFather.+Create+Your+Bot+And+Get+Token.+That+Token+Copy+And+Paste+Here&referralCode=New-Dev3)
 
 ### This bot is created to get telegra.ph links of images...
 
